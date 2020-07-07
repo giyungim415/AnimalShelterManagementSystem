@@ -15,6 +15,7 @@ namespace AnimalShelterManagementSystem.WinForm
     public partial class UserMenu : DevExpress.XtraEditors.XtraForm
     {
         private int userId;
+        private int testesttest;
         public UserMenu()
         {
             InitializeComponent();
